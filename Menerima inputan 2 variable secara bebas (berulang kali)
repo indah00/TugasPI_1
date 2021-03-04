@@ -1,0 +1,6 @@
+//mencari kecepatan rata-rata
+
+s = 25 m
+t = 5 s
+v = s/t
+print (v)
