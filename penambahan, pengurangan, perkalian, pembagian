@@ -1,4 +1,4 @@
 x = 4.4
 y = 8.2
-z = x - y
+z = x * y
 print (z)
